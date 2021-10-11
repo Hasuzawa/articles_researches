@@ -1,10 +1,12 @@
 #include <iostream>
 
 // print the sum of positive integer up to n(inclusive)
-int main(int argc, char* argv[])
+int main()
 {
-    int n = std::atoi(argv[1]);
-    int sum = 0;
+    int n;
+    std::cout << "Enter a number: ";
+    std::cin >> n;
+    int sum{ 0 };
     while(n > 0)
     {
         sum += n--;
