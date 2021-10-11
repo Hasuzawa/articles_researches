@@ -13,19 +13,39 @@ You might, however, want to use some other tool to generate the LaTeX formula if
 
 ### Basic
 
-Pythagoras' theorem<br />
+Pythagoras' theorem
+
 <img src="https://latex.codecogs.com/svg.latex?a^2%20+%20b^2%20=%20c^2" />
 
-Quadratic formula<br />
+Quadratic formula
+
 <img src="https://latex.codecogs.com/svg.latex?x=\frac{-b%20\pm%20\sqrt{b^2-4ac}}{2a}" />
 
 Multi-line equation
 
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}%20(a+b)(a-b)&=a^2-ab+ba-b^2\\%20&=a^2-b^2%20\end{}" />
+
 
 Trigonometry
 
+<img src="https://latex.codecogs.com/svg.latex?cos(2\theta)=cos^2\theta-sin^2\theta=\frac{1-tan^2\theta}{1+tan^2\theta}" />
+
+Factorial (this is Stirling's approximation)
+
+<img src="https://latex.codecogs.com/svg.latex?n!\approx%20\sqrt{2\pi%20n}(\frac{n}{e})^n" />
+
 
 Bold, underline, italic, font size
+
+
+### Function
+
+Kronecker delta
+
+<img src="https://latex.codecogs.com/svg.latex?\delta_{ij}=%20\begin{cases}%200&\text{%20if%20}%20i\neq%20j%20\\%201&\text{%20if%20}%20i%20=%20j%20\end{cases}" />
+
+
+
 
 
 ### Calculus, Summation
@@ -37,6 +57,10 @@ Sum of natural number<br />
 Fundamental theorem of Calculus<br />
 <img src="https://latex.codecogs.com/svg.latex?F(x)=\int_{a}^{x}f(t)dt" /><br />
 <img src="https://latex.codecogs.com/svg.latex?\int_{a}^{b}f(t)dt=F(b)-F(a)" />
+
+Chain rule
+
+
 
 
 
@@ -61,12 +85,20 @@ Triple product<br />
 
 ### Multivariable Calculus
 
-Maxwell Equations
+Partial derivative
+
+
+Spherical coordinate
+
+
+
+Maxwell equations
 
 
 ### Set, Number Theory, Logic
 
 Some common sets
+
 
 
 De Morgan's laws<br />
@@ -78,8 +110,17 @@ Bayes' theorem
 ### Complex number
 
 
+
+
 ### Quantum Mechanics
 
 Scrödinger's equation
 
 ### Chemical Equation
+
+Displacement reaction
+
+
+Redox reaction
+
+Chemical equilibrium

@@ -3,4 +3,12 @@ Sometimes I perform my own research, write a short article, or just brush up my 
 
 ## Content
 
+Useful Ref
 [Typing Equations in Git markdown file](/references/Equations_in_markdown/)
+
+
+Algorithm
+[Simple recursion in C++](/algorithm/recursion)
+
+
+Article
