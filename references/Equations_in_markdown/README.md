@@ -11,6 +11,8 @@ You might, however, want to use some other tool to generate the LaTeX formula if
 
 [LateX syntax reference](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
+The following examples should suffice for most circumstances.
+
 ### Basic
 
 Pythagoras' theorem
@@ -36,15 +38,13 @@ Factorial (this is Stirling's approximation)
 Bold, underline, italic, font size
 
 
+
+
 ### Function
 
 Kronecker delta
 
 <img src="https://latex.codecogs.com/svg.latex?\delta_{ij}=%20\begin{cases}%200&\text{%20if%20}%20i\neq%20j%20\\%201&\text{%20if%20}%20i%20=%20j%20\end{cases}" />
-
-
-
-
 
 ### Calculus, Summation
 
@@ -61,9 +61,11 @@ Fundamental theorem of Calculus
 
 Chain rule
 
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}%20Given\hspace{5mm}z&=f(y)\hspace{2mm},\hspace{2mm}y=g(x)\\%20\frac{dz}{dx}\Big|_{x_{0}}&=\frac{dz}{dy}\Big|_{y_{0}=g(x_{0})}\cdot\frac{dy}{dx}\Big|_{x_{0}}%20\end{}" />
 
+Fourier transform
 
-
+<img src="https://latex.codecogs.com/svg.latex?\hat{f}(\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi%20ix\xi}\hspace{3mm}dx" />
 
 
 ### Linear Algebra, Determinant, Matrice
@@ -97,8 +99,6 @@ Laplace's equation
 
 <img src="https://latex.codecogs.com/svg.latex?\Delta%20f(x,y,z)=\nabla^2f=\frac{\partial^2f}{\partial%20x^2}+\frac{\partial^2f}{\partial%20y^2}+\frac{\partial^2f}{\partial%20z^2}=0" />
 
-Spherical coordinate
-
 
 Stokes' theorem
 
@@ -121,6 +121,8 @@ De Morgan's laws
 
 Bayes' theorem
 
+<img src="https://latex.codecogs.com/svg.latex?P(A|B)=\frac{P(B|A)\cdot%20P(A)}{P(B)}" />
+
 ### Complex number
 
 <img src="https://latex.codecogs.com/svg.latex?z=\overbrace{a}^\text{real%20part}+\underbrace{b}_\text{imaginary%20part}i" />
@@ -131,22 +133,18 @@ Newtonian mechanics
 
 <img src="https://latex.codecogs.com/svg.latex?\vec{F}=m\vec{a}" />
 
-Lagragian mechanics
-
-
-
+<!-- Lagragian mechanics
 
 Hamiltonian mechanics
 
-
-
-Maxwell equations
+Maxwell equations -->
 
 
 
-### Quantum Mechanics
+<!-- ### Quantum Mechanics
 
-Scrödinger's equation
+Scrödinger's equation -->
+
 
 ### Chemical Equation
 
@@ -154,8 +152,8 @@ Displacement reaction
 
 <img src="https://latex.codecogs.com/svg.latex?Fe+CuSO_4\rightarrow%20FeSO_4+Cu\hspace{1cm}(Cu^{2+}\text{%20ion%20is%20blue},Fe^{2+}\text{%20ion%20is%20greenish})" />
 
-Redox reaction
+Formation of C14 isotope (carbon dating)
 
-Chemical equilibrium
+<img src="https://latex.codecogs.com/svg.latex?n+{}^{14}_{7}x={}^{14}_{6}C+p" />
 
-It is possible to draw chemical compounds, such as organic compounds, in LaTeX. Checkout [this guide](https://www.overleaf.com/learn/latex/Chemistry_formulae) and [this post](https://tex.stackexchange.com/questions/52722/can-you-make-chemical-structure-diagrams-in-latex)
+It is possible to draw chemical compounds, such as organic compounds, in LaTeX. Checkout [this guide](https://www.overleaf.com/learn/latex/Chemistry_formulae) and [this post](https://tex.stackexchange.com/questions/52722/can-you-make-chemical-structure-diagrams-in-latex).
