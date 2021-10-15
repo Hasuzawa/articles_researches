@@ -10,4 +10,4 @@ Both algorithm has efficiency O(n) which is obviously much worse than O(1) from 
 
 
 A simple algorithm for finding the n-th term of fibonacci series is also given.
-Do note that the algorithm has no memoization and very inefficient.
+Do note that the algorithm has no memoization and is very inefficient.

@@ -63,7 +63,6 @@ Sum of natural number
 
 <img src="https://latex.codecogs.com/svg.latex?1+2+3+...+(n-1)+n%20=\sum_{i=1}^{n}i=\frac{n(n+1)}{2}" />
 
-
 Fundamental theorem of Calculus
 
 <img src="https://latex.codecogs.com/svg.latex?F(x)=\int_{a}^{x}f(t)dt" />
@@ -77,7 +76,6 @@ Chain rule
 Fourier transform
 
 <img src="https://latex.codecogs.com/svg.latex?\hat{f}(\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi%20ix\xi}\hspace{3mm}dx" />
-
 
 ### Linear Algebra, Determinant, Matrice
 
@@ -115,9 +113,6 @@ Stokes' theorem
 
 <img src="https://latex.codecogs.com/svg.latex?\iint_{\Sigma}(\nabla\times\vec{A})\cdot%20d\vec{a}=\oint_{\partial%20\Sigma}(\vec{A}\cdot%20d\vec{l})" />
 
-
-
-
 ### Set, Number Theory, Logic
 
 Some common sets
@@ -147,14 +142,24 @@ Newtonian mechanics
 <!-- Lagragian mechanics
 
 Hamiltonian mechanics
+--->
+Maxwell equations
 
-Maxwell equations -->
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}%20\nabla\cdot\vec{E}&=\frac{\rho}{\varepsilon_0}\\%20\nabla\cdot\vec{B}&=0\\%20\nabla\times\vec{E}&=-\frac{\partial\vec{B}}{\partial%20t}\\%20\nabla\times\vec{B}&=\mu_0(\vec{J}+\varepsilon_0\frac{\partial\vec{E}}{\partial%20t})%20\end{}" />
 
+Planck's law (black-body radiation)
 
+<img src="https://latex.codecogs.com/svg.latex?B_\nu(\nu,T)=\frac{2h\nu^3}{c^2}\frac{1}{e^{\frac{h\nu}{kT}}-1}" />
+
+Schwarzchild metric (simplest blackhole model under general relativity)
+
+<img src="https://latex.codecogs.com/svg.latex?ds^2=c^2dt^2-dx^2-dy^2-dz^2=dr^{\mu}dr_{\mu}=g_{\mu%20v}dr^{\mu}dr^{v},\vspace{3mm}\\%20where\hspace{5mm}g_{\mu%20v}=\begin{bmatrix}%20(1-\frac{2GM}{rc^2})&0&0&0\\[2mm]%200&-(1-\frac{2GM}{rc^2})^{-1}&0&0\\[2mm]%200&0&-r^2&0\\[2mm]%200&0&0&-r^{2}sin^2\theta%20\end{bmatrix}" />
 
 <!-- ### Quantum Mechanics
 
 Scrödinger's equation -->
+
+
 
 
 ### Chemical Equation
