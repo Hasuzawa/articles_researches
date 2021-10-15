@@ -35,16 +35,27 @@ Factorial (this is Stirling's approximation)
 
 <img src="https://latex.codecogs.com/svg.latex?n!\approx%20\sqrt{2\pi%20n}(\frac{n}{e})^n" />
 
+Fermat's little theorem
+
+<img src="https://latex.codecogs.com/svg.latex?a^{p-1}\equiv%201\pmod{p}" />
+
 Bold, underline, italic, font size
 
-
-
+<img src="https://latex.codecogs.com/svg.latex?\text{\huge%20The%20}\text{\underline{quick%20brown}%20\textit{fox}%20\textbf{jumps%20}}\text{\large%20over}\text{%20the%20\underline{lazy}%20\textit{dog}}" />
 
 ### Function
 
 Kronecker delta
 
 <img src="https://latex.codecogs.com/svg.latex?\delta_{ij}=%20\begin{cases}%200&\text{%20if%20}%20i\neq%20j%20\\%201&\text{%20if%20}%20i%20=%20j%20\end{cases}" />
+
+Injective function
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}%20&\text{Given%20}f:X\rightarrow%20Y\text{,%20f%20is%20injective%20if}\\%20&\hspace{10mm}\forall%20a,b\in%20X,\hspace{5mm}f(a)=f(b)\Rightarrow%20a%20=%20b%20\end{}" />
+
+Surjective function
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{align*}%20&\text{Given%20}f:X\rightarrow%20Y\text{,%20f%20is%20surjective%20if}\\%20&\hspace{10mm}\forall%20y\in%20Y,\hspace{5mm}\exists%20x\in%20X:f(x)=y%20\end{}" />
 
 ### Calculus, Summation
 
