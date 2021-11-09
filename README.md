@@ -5,9 +5,8 @@ Sometimes I perform my own research, write a short article, or just brush up my 
 
 Useful Ref
 
-[Typing Equations in Git markdown file](/references/Equations_in_markdown/)
-
-[The "Script" family of programming languages](/references/script_family)
+- [Typing Equations in Git markdown file](/references/Equations_in_markdown/)
+- [Brief introduction to some script programming languages](/references/script_languages/)
 
 
 Algorithm
