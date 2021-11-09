@@ -7,6 +7,8 @@ Useful Ref
 
 [Typing Equations in Git markdown file](/references/Equations_in_markdown/)
 
+[The "Script" family of programming languages](/references/script_family)
+
 
 Algorithm
 
