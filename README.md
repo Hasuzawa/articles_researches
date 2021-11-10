@@ -7,6 +7,7 @@ Useful Ref
 
 - [Typing Equations in Git markdown file](/references/Equations_in_markdown/)
 - [Brief introduction to some script programming languages](/references/script_languages/)
+- [Common computer terminology in English, German, French and Japanese](/references/terminology/)
 
 
 Algorithm
