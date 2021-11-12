@@ -6,9 +6,11 @@ To show the grammatical genders in German and French, articles (e.g. the, a/an) 
 German nouns are always capatilized, it is not a typo.
 Beware of umlauts, diacritics, they are not optional.
 
-Also, many nouns that are spelt the same in English can be vastly different in other languages, e.g. a capital city is Hauptstadt in German, while capital as the initial investment is Kapital. Do not unknowingly generalize what you see here.
+Also, many nouns that are spelt the same in English can be vastly different in other languages, e.g. a capital city is Hauptstadt in German, while capital as the initial investment is Kapital. Do not unknowingly generalize what you see here. Even for nouns of the same meaning, those used in academics and those used in daily life can be quite different.
 
-Hopefully it will be useful for reading technical books, papers.
+For Japanese, nowadays many textbooks use mostly katakana to spell the noun, even though there is a native and accurate noun to describe it. You will likely see much more katakana than kanji in programming books and papers.
+
+Hopefully it will be useful for reading or searching technical books, papers. If you study computer science in a foreign country, you definitely want to read some books in local language, it boardens both your horizon and knowledge. 
 
 ### Daily life
 
@@ -37,6 +39,7 @@ Hopefully it will be useful for reading technical books, papers.
 | efficiency               | die Effizienz                 | l'efficience               | 効率                   |
 | recursion                | eine Rekursion                | une récursion              | 再帰                   |
 | dynamic programming      | die dynamische Programmierung | la programmation dynamique | 動的計画法             |
+| memoization              | die Memoisation               | la mémoïsation             | メモ化                   |
 | computational complexity | die Berechnungskomplexität    | la complexité de calcul    | 計算複雑性             |
 | computability            | die Berechenbarkeit           | la calculabilité           | 計算可能性             |
 | digit                    | eine Ziffer                   | un chiffre                 | 桁                     |
@@ -48,33 +51,45 @@ Hopefully it will be useful for reading technical books, papers.
 | cryptography             | die Kryptographie             | la cryptographie           | 暗号理論               |
 | encryption               | die Verschlüsselung           | le chiffrement             | 暗号化                 |
 | automation               | die Automatisierung           | l'automatisme              | 自動化、オートメーション        |
+| optimisation             | die Optimierung               | l'optimisation             | 最適化                 |
 
 ## Mathematics, Statistics
 
-|discrete mathematics|
-|combinatorics|
-|combination|
-|permutation|
-|probability|die Wahrscheinlichkeit|la probabilité|
-|expected value|die Erwartungswert|espérance mathématique|
-|median|die Mittellinie|la médiane|
-|regression|
-|scalar|
-|vector|ein Vektor|
-|determinant|
-|matrice|
+| English              | German                   | French                      | Japanese    |
+|----------------------|--------------------------|-----------------------------|-------------|
+| discrete mathematics | die Diskrete Mathematics | les mathématiques discrètes | 離散数学    |
+| combinatorics        | die Kombinatorik         | la combinatoire             | 組合せ数学   |
+| combination          | eine Kombination         | une combinaison             | 組み合わせ     |
+| permutation          | eine Permutation         | une permutation             | 置換        |
+| sample space         | der Ergebnisraum         | le univers                  | 標本空間    |
+| probability          | die Wahrscheinlichkeit   | la probabilité              | 確率        |
+| expected value       | die Erwartungswert       | espérance mathématique      | 期待値      |
+| median               | der Mittelwert           | la médiane                  | 中央値      |
+| mode                 | der Modus                | le mode                     | 最頻値, モード |
+| regression           | die Regression           | la régression               | 回帰        |
+| scalar               | ein Skalar               | un scalaire                 | スカラー        |
+| vector               | ein Vektor               | un vecteur                  | ベクトル, ベクター  |
+| determinant          | eine Determinante        | un éterminant               | 行列式      |
+| matrice              | eine Matrix              | une matrice                 | 行列        |
+| polynomial           | ein Polynom              | un polynôme                 | 多項式      |
+| infinity             | die Unendlichkeit        | l'infini                    | 無限        |
 
 ### Programming Language
 
-|programming language|eine Programmiersprache|un langage de programmation|プログラミング言語|
-|identifier|ein Identifikator|un identifiant|識別子|
-|assignment|eine Zuweisung|une affectation|
-|operator|ein Operator|un opérateur|演算子|
-|number|eine Nummer|un nombre|
-|string|eine Zeichenkette|
-|pointer|ein Zeiger|
-|address|eine Adresse|
-|data structure|eine Datenstrukur|
+| English              | German                  | French                      | Japanese    |
+|----------------------|-------------------------|-----------------------------|-------------|
+| programming language | eine Programmiersprache | un langage de programmation | プログラミング言語 |
+| identifier           | ein Identifikator       | un identifiant              | 識別子      |
+| assignment           | eine Zuweisung          | une affectation             | 割り当て      |
+| operator             | ein Operator            | un opérateur                | 演算子      |
+| number               | eine Nummer             | un nombre                   | 数          |
+| string               | eine Zeichenkette       | une chaîne de caractères    | 文字列      |
+| pointer              | ein Zeiger              | un pointeur                 | ポインタ        |
+|address|eine Adresse|l'adresse | アドレス
+|array| ein Feld | un tableau | 配列 |
+|list | eine Liste | une liste |  リスト |
+|tuple| ein Tupel | n-uplet | タプル
+|data structure|eine Datenstrukur| 
 |object
 |inheritance
 |polymorphism
@@ -83,10 +98,14 @@ Hopefully it will be useful for reading technical books, papers.
 |regular expression
 |terminator|
 |separator|
+|parser|
 |compiler|ein Compiler|
 |interpreter|ein Interpreter|
 |runtime environment|eine Laufzeitumgebung|
 |debugging|das Debuggen|
+|true|
+|false|
+
 
 ### Network, Server, database
 
@@ -108,6 +127,8 @@ Hopefully it will be useful for reading technical books, papers.
 
 |terminal|das Terminal|
 |operating system|das Betriebssystem
+|kernel
+|daemon
 |registry
 |shell
 |driver
@@ -136,12 +157,15 @@ Hopefully it will be useful for reading technical books, papers.
 |heap|
 |random access memory(RAM)|
 |register|ein Register|
+|cache|
 |central processing unit(CPU)|
+|computer architecture|
 |embedded system|
 |actuator|der Aktor|
 
 ### Web development
 
+|browser|
 |frontend|das Frontend
 |backend|das Backend|
 |full stack|der Full-stack|
@@ -163,6 +187,7 @@ Hopefully it will be useful for reading technical books, papers.
 |neural network|
 |virtual reality|
 |cloud computing|
+|concurrency|
 |synchronization|
 |authentication|die Authentifizierung|l'authentification|
 |quantum computing|
@@ -183,3 +208,10 @@ Hopefully it will be useful for reading technical books, papers.
 |ruler|ein Lineal|une règle|定規、物差し|
 |compass|ein Zirkel|un compas|コンパス、円規|
 |abacus|ein Abakus|un abaque|算盤、珠算、アバカス|
+|calendar|
+|translation|
+|dictionary|
+| color | die Farbe | la couleur | 色 |
+| hue | der Farbton | le ton, la teinte| 色相 |
+| contrast | 
+| visibility | 
