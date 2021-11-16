@@ -1,47 +1,71 @@
 ## Computer Terminologies in English, German, French and Japanese
 
-(not yet complete)
+### (not yet complete)
 
 To show the grammatical genders in German and French, articles (e.g. the, a/an) are given.
 German nouns are always capatilized, it is not a typo.
 Beware of umlauts, diacritics, they are not optional.
 
-Also, many nouns that are spelt the same in English can be vastly different in other languages, e.g. a capital city is Hauptstadt in German, while capital as the initial investment is Kapital. Do not unknowingly generalize what you see here. Even for nouns of the same meaning, those used in academics and those used in daily life can be quite different.
+Also, many nouns that are spelt the same in English can be vastly different in other languages, 
+e.g. a capital city is Hauptstadt in German, while capital as the initial investment is Kapital. 
+Do not unknowingly generalize what you see here. Even for nouns of the same meaning, those used in academics 
+and those used in daily life can be quite different.
 
-For Japanese, nowadays most textbooks use mostly katakana to spell the noun, even though there is a native and accurate noun to describe it. You will likely see much more katakana than kanji in programming books and papers.
+For Japanese, nowadays most textbooks use mostly katakana to spell the noun, even though there is a 
+native and accurate noun to describe it. You will likely see much more katakana than kanji in programming books and papers.
 
-Hopefully it will be useful for reading or searching technical books, papers. If you study computer science in a foreign country, you definitely want to read some books in local language, it boardens both your horizon and knowledge. 
+Hopefully it will be useful for reading or searching technical books, papers, finding a job in foreign countries,
+buying computer products in foreign countries etc.
+If you study computer science or work in a foreign country, you definitely want to read some books in local language if you can,
+it boardens both your horizon and knowledge.
+
+This is heavily influenced by Wikipedia as I think the nouns listed there are what the commonly accepted
+definitions in each langauge. But I have also used various online dictionary to further pinpoint the meaning. I
+have mid-low to high fluency in all four languages.
+
+Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 
 ## Daily life
+<details open>
 
-| English           | German             | French                    | Japanese       |
-|-------------------|--------------------|---------------------------|----------------|
-| computer          | ein Computer       | un ordinateur             | 計算機、コンピューター |
-| mobile phone      | ein Mobiltelefon   | un téléphone mobile       | 携帯電話       |
-| laptop, notebook  | ein Klapprechner   | une ordinateur portable   | ノートパソコン        |
-| monitor           | ein Monitor        | un écran d'ordinateur     | モニター           |
-| keyboard          | eine Tastatur      | un clavier d'ordinateur   | キーボード          |
-| mouse             | eine Maus          | une souris                | マウス            |
-| cursor            | ein Cursor         | un curseur                | カーソル           |
-| power cable       | ein Stromkabel     | un fil                    | 電線           |
-| adaptor           | ein Adapter        | un adaptateur             | アダプター          |
-| socket            | eine Steckdose     | une prise                 | ソケット           |
-| battery           | eine Batterie      | une pile                  | 電池、バッテリー     |
-| calculator        | ein Taschenrechner | une calculatrice          | 電卓           |
-| username          | ein Benutzername   | un nom d'utilisateur      | ユーザー名         |
-| password          | ein Passwort       | un mot de passe           | パスワード          |
-| login             | anmelden           | se connecter              | ログイン           |
-| registration      | die Anmeldung      | l'enregistrement          | 登録           |
-| resolution        | die Auflösung      | la définition d’écran     | 解像度         |
-| hyperlink         | ein Hyperlink      | un hyperlien              | ハイパーリンク        |
-| upload            | hochladen          | télécharger               | アップロード         |
-| download          | herunterladen      | télécharger               | ダウンロード         |
-| install           | installieren       | installer                 | インストール         |
-| multimedia        | das Multimedia     | le multimédia             | マルチメディア        |
-| file              | eine Datei         | un fichier                | ファイル           |
-| directory, folder | ein Ordner         | un répertoire, un dossier | ディレクトリ, フォルダ   |
+| English           | German                      | French                    | Japanese        |
+|-------------------|-----------------------------|---------------------------|-----------------|
+| computer          | ein Computer                | un ordinateur             | 計算機, コンピューター |
+| mobile phone      | ein Mobiltelefon, ein Handy | un téléphone mobile       | 携帯電話        |
+| laptop, notebook  | ein Klapprechner            | une ordinateur portable   | ノートパソコン         |
+| display, screen   | ein Bildschirm              | un écran                  | 画面, 表示      |
+| monitor           | ein Monitor                 | un écran d'ordinateur     | モニター            |
+| keyboard          | eine Tastatur               | un clavier d'ordinateur   | キーボード           |
+| mouse             | eine Maus                   | une souris                | マウス             |
+| cursor            | ein Cursor                  | un curseur                | カーソル            |
+| touchpad          | ein Touchpad                | un pavé tactile           | タッチパッド          |
+| (computer) tablet | ein Tablet                  | une tablette              | タブレット           |
+| stylus            | ein Eingabestift            | un stylet                 | スタイラス           |
+| (electric) wire   | ein Draht                   | un fil                    | 電線            |
+| adaptor           | ein Adapter                 | un adaptateur             | アダプター           |
+| socket            | eine Steckdose              | une prise                 | ソケット            |
+| battery           | eine Batterie               | une pile                  | 電池, バッテリー     |
+| calculator        | ein Taschenrechner          | une calculatrice          | 電卓            |
+| username          | ein Benutzername            | un nom d'utilisateur      | ユーザー名          |
+| password          | ein Passwort                | un mot de passe           | パスワード           |
+| login             | anmelden                    | se connecter              | ログイン            |
+| registration      | die Anmeldung               | l'enregistrement          | 登録            |
+| resolution        | die Auflösung               | la définition d’écran     | 解像度          |
+| hyperlink         | ein Hyperlink               | un hyperlien              | ハイパーリンク         |
+| search            | suchen                      | chercher                  | 探す             |
+| upload            | hochladen                   | télécharger               | アップロード          |
+| download          | herunterladen               | télécharger               | ダウンロード          |
+| install           | installieren                | installer                 | インストール          |
+| multimedia        | das Multimedia              | le multimédia             | マルチメディア         |
+| file              | eine Datei                  | un fichier                | ファイル            |
+| directory, folder | ein Ordner                  | un répertoire, un dossier | ディレクトリ, フォルダ    |
+| backup            | eine Datensicherung         | une sauvegarde            | バックアップ          |
+| screenshot        | ein Screenshot              | une capture d'ecran       | スクリーンショット       |
+
+</details>
 
 ## Computer Science
+<details open>
 
 | English                  | German                        | French                     | Japanese               |
 |--------------------------|-------------------------------|----------------------------|------------------------|
@@ -63,8 +87,17 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | encryption               | die Verschlüsselung           | le chiffrement             | 暗号化                 |
 | automation               | die Automatisierung           | l'automatisme              | 自動化、オートメーション        |
 | optimisation             | die Optimierung               | l'optimisation             | 最適化                 |
+| data structure           | eine Datenstrukur             | la structure de données    | データ構造                |
+| queue                    | eine Warteschlange            | une file                   | キュー                    |
+| stack                    | ein Stapel                    | une pile                   | スタック                   |
+| tree (data structure)    | ein Baum                      | un arbre                   | 木                     |
+| trie                     | ein Trie                      | un trie                    | トライ                    |
+| (character) encoding     | die Zeichenkodierung          | la codage (des caractères) | 文字コード                |
+
+</details>
 
 ## Mathematics, Statistics
+<details open>
 
 | English                       | German                            | French                        | Japanese    |
 |-------------------------------|-----------------------------------|-------------------------------|-------------|
@@ -90,7 +123,10 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | greatest common divisor (GCD) | der größter gemeinsamer Teiler    | le plus grand commun diviseur | 最大公約数  |
 | least common multiple (LCM)   | das kleinste gemeinsame Vielfache | le plus petit commun multiple | 最小公倍数  |
 
+</details>
+
 ## Programming Language
+<details open>
 
 | English                  | German                   | French                       | Japanese          |
 |--------------------------|--------------------------|------------------------------|-------------------|
@@ -103,10 +139,13 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | string                   | eine Zeichenkette        | une chaîne de caractères     | 文字列            |
 | pointer                  | ein Zeiger               | un pointeur                  | ポインタ              |
 | address                  | eine Adresse             | l'adresse                    | アドレス              |
+| reference                | eine Referenz            | une référence                | 参照              |
+| alias                    | ein Alias                | un alias                     | エイリアス             |
 | array                    | ein Feld                 | un tableau                   | 配列              |
 | list                     | eine Liste               | une liste                    | リスト               |
 | tuple                    | ein Tupel                | n-uplet                      | タプル               |
-| data structure           | eine Datenstrukur        | la structure de données      | データ構造           |
+| set                      | eine Menge               | un ensemble                  | セット, 集合         |
+| map (data structure)     | eine Zuordnungstabelle   | un tableau associatif        | マップ, 辞書         |
 | object                   | ein Objekt               | un objet                     | オブジェクト            |
 | class                    | eine Klasse              | une classe                   | クラス               |
 | instance                 | eine Instanz             | une instance                 | インスタンス            |
@@ -126,6 +165,7 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | module                   | ein Modul                | un modèle                    | モジュール             |
 | package                  | ein Paket                | un paquet, un paquetage      | パッケージ             |
 | dependency               | eine Abhängigkeit        | une dépendance               | 依存              |
+| namespace                | der Namensraum           | l'espace de noms             | 名前空間          |
 | parser                   | ein Parser               | une analyseur syntaxique     | パーサ, 構文解析器   |
 | lexicon                  | das Lexicon              | le lexique                   | 辞書              |
 | syntax                   | die Syntax               | la syntaxe                   | 構文              |
@@ -135,64 +175,80 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | interpreter              | ein Interpreter          | un interprète                | インタプリタ            |
 | runtime environment      | eine Laufzeitumgebung    | un environnement d'exécution | 実行環境          |
 | debugging                | das Debuggen             | le débogage                  | デバッギング            |
+| garbage collection       | die Garbage Collection   | le ramasse-miettes           | ガベージコレクション        |
+| library (utilities)      | eine Bibliothek          | une bibliothèque             | ライブラリ             |
+| framework                | ein Framework            | un framework                 | フレームワーク           |
+| plugin                   | ein Plugin               | un plugin                    | プラグイン             |
+| paradigm                 | ein Paradigma            | un paradigme                 | パラダイム             |
 | true                     | wahr                     | vrai                         | 真                |
 | false                    | falsch                   | faux                         | 偽                |
 <!-- |terminator| -->
 <!-- |separator| | 分離子 | -->
 
-## Network, Server, database
+</details>
 
-| English              | German                  | French                      | Japanese    |
-|----------------------|-------------------------|-----------------------------|-------------|
-|network|ein Netzwerk| un réseau | ネットワーク |
-|internet|das Internet| l'internet | インターネット | 
-|intranet|
-|ethernet|
-|database|eine Datenbank|une Base de données| データベース |
-| redundancy | die Redundanz | 
-|server|ein Server| un serveur | サーバ |
-|host|ein Hostrechner| un hôte | ホスト |
-|port|ein Port| un port | ポート |
-|hypervisor| ein Hypervisor | un hyperviseur | ハイパーバイザ |
-|signal| das Signal | 
-|connection|
-|broadcast|
+## Network, Server, database
+<details open>
+
+| English    | German          | French              | Japanese   |
+|------------|-----------------|---------------------|------------|
+| network    | ein Netzwerk    | un réseau           | ネットワーク     |
+| internet   | das Internet    | l'internet          | インターネット    |
+| database   | eine Datenbank  | une Base de données | データベース     |
+| redundancy | die Redundanz   | la redondance       | 冗長化     |
+| server     | ein Server      | un serveur          | サーバ        |
+| host       | ein Hostrechner | un hôte             | ホスト        |
+| port       | ein Port        | un port             | ポート        |
+| hypervisor | ein Hypervisor  | un hyperviseur      | ハイパーバイザ    |
+| signal     | das Signal      | le signal           | 信号       |
+| connection | eine Verbindung | la connexion        | 接続, 繋がり |
+| broadcast  | eine Sendung    | la télédiffusion    | 放送, 配信 |
+
+</details>
 
 ## Software
+<details open>
 
-| English              | German                  | French                      | Japanese    |
-|----------------------|-------------------------|-----------------------------|-------------|
-|terminal|ein Terminal|
-|console | eine Konsole | une console | コンソール |
-|operating system|das Betriebssystem | un le système d'exploitation | オペレーティングシステム |
-|kernel | ein Kernel | un noyau | カーネル |
-|daemon | ein Daemon | un daemon | デーモン |
-|registry
-|shell
-|driver
-|emulator|
-|virtualization|
-|virtual machine|
-|repository|
-|archive|
-|thread|
-|interrupt|
+| English           | German                      | French                       | Japanese       |
+|-------------------|-----------------------------|------------------------------|----------------|
+| software          | eine Software               | un logiciel                  | ソフトウェア         |
+| application (app) | eine Anwendung              | une application              | アプリケーション       |
+| terminal          | ein Terminal                | un terminal                  | 端末           |
+| console           | eine Konsole                | une console                  | コンソール          |
+| operating system  | das Betriebssystem          | un le système d'exploitation | オペレーティングシステム   |
+| kernel            | ein Kernel                  | un noyau                     | カーネル           |
+| daemon            | ein Daemon                  | un daemon                    | デーモン           |
+| registry          | die Registrierungsdatenbank | La base de registre          | レジストリ          |
+| shell             | die Shell                   | la coque logicielle          | シェル            |
+| driver            | ein Treiber                 | une pilote (informatique)    | ドライバ           |
+| emulator          | ein Emulator                | un émulateur                 | エミュレータ         |
+| simulation        | die Simulation              | la simulation                | シミュレーション, 模擬 |
+| virtualization    | die Virtualisierung         | la virtualisation            | 仮想化         |
+| virtual machine   | ein virtuelle Maschine      | une machine virtuelle        | 仮想機械       |
+| repository        | ein Repository              | un dépôt                     | リポジトリ          |
+| archive           | ein Archiv                  | une archive                  | アーカイブ          |
+| thread            | ein Thread                  | un thread, fil (d'exécution) | スレッド           |
+| interrupt         | ein Interrupt               | une interruption             | 割り込み         |
+
+</details>
 
 ## Hardware
+<details open>
 
-| English              | German                  | French                      | Japanese    |
-|----------------------|-------------------------|-----------------------------|-------------|
-|circuit| ein Stromkreis | un circuit | 回路 |
-|capacitor| ein Kondensator |
-|resistor| ein Widerstand | 
-|transistor| ein Transistor | un transistor | トランジスタ |
-|semiconductor| ein Halbleiter | 
-|voltage| die (elektrische) Spannung | la tension (électrique) | 電圧 |
-|current| die (elektrische) Strom | le courant (électrique) | 電流 |
-|resistance| der (elektrische) Widerstand | la résistance (électrique) | (電気)抵抗 |
-| short-circuit | ein Kurzschluss | un court-circuit | 短絡 |
-|electromagnetic wave| Electromagnetische Welle | l'onde électromagnétique | 電磁波 |
-|memory|
+| English               | German                       | French                     | Japanese   |
+|-----------------------|------------------------------|----------------------------|------------|
+| hardware              | eine Hardware                | un matériel                | ハードウェア     |
+| circuit               | ein Stromkreis               | un circuit                 | 回路       |
+| capacitor             | ein Kondensator              | un condensateur            | コンデンサ      |
+| resistor              | ein Widerstand               | une résistance             | 抵抗器     |
+| transistor            | ein Transistor               | un transistor              | トランジスタ     |
+| semiconductor         | ein Halbleiter               | un semi-conducteur         | 半導体     |
+| voltage               | die (elektrische) Spannung   | la tension (électrique)    | 電圧       |
+| (electric) current    | die (elektrische) Strom      | le courant (électrique)    | 電流       |
+| (electric) resistance | der (elektrische) Widerstand | la résistance (électrique) | (電気)抵抗 |
+| short-circuit         | ein Kurzschluss              | un court-circuit           | 短絡       |
+| electromagnetic wave  | Electromagnetische Welle     | l'onde électromagnétique   | 電磁波     |
+| (computer) memory| der Speicher | la mémoire | メモリー |
 |stack|
 |heap|
 |random access memory (RAM)|
@@ -206,8 +262,14 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 |embedded system| ein eingebettetes System | un système embarqué | 組み込みシステム |
 |sensor| ein Sensor | un capteur | センサー |
 |actuator|der Aktor| un actionneur | アクチュエータ |
+| component | eine Komponente | un composant |
+| controller |
+
+
+</details>
 
 ## Web development
+<details open>
 
 |browser| ein Browser | un navigateur | 
 |frontend|das Frontend
@@ -218,18 +280,24 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | specificity | die Spezifität |la spécificité |
 | domain | eine Domain |
 
-## Title, Role
+</details>
 
-|engineer | 
-|developer
-|administrator
-|electician
-|technician
+## Title, Role
+<details open>
+
+I should note that some of these titles are legally protected in some countries and require some registration, 
+certification or recognition to be used.
+
+|engineer | ein Ingenieur | un ingénieur | エンジニア |
+|developer | ein Entwickler | un développeur | 開発者 |
+|administrator (e.g. of database) | ein Administrator | un administrateur | 
+|electician | ein Elektriker | un électricien | 電気工事士 (電工) |
+|technician | ein Techniker | un technicien | 技師 | 管理者 |
 | designer |
 | artist |
 | animator |
 | scientist |
-| intern
+| intern |
 | part-timer |
 | employee |
 | employer |
@@ -250,10 +318,12 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | sender |
 | recipient |
 
+</details>
 
+## Multimedia, Graphics
+<details open>
 
-## Multimedia
-
+| pixel |
 | photo |
 | image |
 | video|
@@ -270,6 +340,7 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | projecter |
 | reflection |
 
+</details>
 
 ## Protocol, Standard, License, Law
 
@@ -302,6 +373,14 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 |bioinformatics|
 |mechatronics|
 
+## Chemistry Physics related to computer
+
+| electrolyte |
+| acid | 
+| alkali |
+| solvent | 
+
+
 ## Good to know
 
 | English          | German           | French                  | Japanese       |
@@ -328,3 +407,4 @@ Hopefully it will be useful for reading or searching technical books, papers. If
 | past | die Vergangenheit | le passé | 過去 |
 | present | die Gegenwart | le présent | 現在, 今 |
 | future | die Zukunft | le avenir | 未来 |
+| solution (answer) | 
