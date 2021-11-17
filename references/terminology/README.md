@@ -1,10 +1,18 @@
 ## Computer Terminologies in English, German, French and Japanese
 
-### (not yet complete)
+### Purpose
+
+Some common terminologies related to computer and technology are summarized below in 4 languages.
+Hopefully it will be useful for reading or searching technical books, papers, finding a job in foreign countries,
+buying computer products in foreign countries etc.
+
+### Remark
+
+<details open>
+Technical acronyms usually stay the same, e.g. HTTP, URL, HTML, SaaS and are therefore not listed.
 
 To show the grammatical genders in German and French, articles (e.g. the, a/an) are given.
-German nouns are always capatilized, it is not a typo.
-Beware of umlauts, diacritics, they are not optional.
+German nouns are always capatilized, it is not a typo. Beware of umlauts, diacritics, they are not optional.
 
 Also, many nouns that are spelt the same in English can be vastly different in other languages, 
 e.g. a capital city is Hauptstadt in German, while capital as the initial investment is Kapital. 
@@ -14,18 +22,16 @@ and those used in daily life can be quite different.
 For Japanese, nowadays most textbooks use mostly katakana to spell the noun, even though there is a 
 native and accurate noun to describe it. You will likely see much more katakana than kanji in programming books and papers.
 
-Hopefully it will be useful for reading or searching technical books, papers, finding a job in foreign countries,
-buying computer products in foreign countries etc.
 If you study computer science or work in a foreign country, you definitely want to read some books in local language if you can,
 it boardens both your horizon and knowledge.
 
 This is heavily influenced by Wikipedia as I think the nouns listed there are what the commonly accepted
 definitions in each langauge. But I have also used various online dictionary to further pinpoint the meaning. I
 have mid-low to high fluency in all four languages.
-
-Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
+</details>
 
 ## Daily life
+
 <details open>
 
 | English           | German                      | French                    | Japanese        |
@@ -65,6 +71,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 </details>
 
 ## Computer Science
+
 <details open>
 
 | English                  | German                        | French                     | Japanese               |
@@ -90,6 +97,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 | data structure           | eine Datenstrukur             | la structure de données    | データ構造                |
 | queue                    | eine Warteschlange            | une file                   | キュー                    |
 | stack                    | ein Stapel                    | une pile                   | スタック                   |
+| heap                     | ein Heap                      | un tas                     | ヒープ                    |
 | tree (data structure)    | ein Baum                      | un arbre                   | 木                     |
 | trie                     | ein Trie                      | un trie                    | トライ                    |
 | (character) encoding     | die Zeichenkodierung          | la codage (des caractères) | 文字コード                |
@@ -97,6 +105,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 </details>
 
 ## Mathematics, Statistics
+
 <details open>
 
 | English                       | German                            | French                        | Japanese    |
@@ -126,6 +135,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 </details>
 
 ## Programming Language
+
 <details open>
 
 | English                  | German                   | French                       | Japanese          |
@@ -135,6 +145,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 | declaration              | die Deklaration          | la déclaration               | 宣言              |
 | assignment               | eine Zuweisung           | une affectation              | 割り当て            |
 | operator                 | ein Operator             | un opérateur                 | 演算子            |
+| data type                | ein Datentyp             | un type de donnée            | データ型             |
 | number                   | eine Nummer              | un nombre                    | 数                |
 | string                   | eine Zeichenkette        | une chaîne de caractères     | 文字列            |
 | pointer                  | ein Zeiger               | un pointeur                  | ポインタ              |
@@ -162,6 +173,8 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 | endianness               | die Byte-Reihenfolge     | le boutisme                  | エンディアン            |
 | delimiter                | ein Trennzeichen         | un séparateur                | 区切り文字         |
 | bracket, parentheses     | die Klammer              | les parenthèses              | 括弧              |
+| generics                 | die Generik              | la généricité                | ジェネリック, 汎型      |
+| template                 | ein Template             | un patron                    | テンプレート            |
 | module                   | ein Modul                | un modèle                    | モジュール             |
 | package                  | ein Paket                | un paquet, un paquetage      | パッケージ             |
 | dependency               | eine Abhängigkeit        | une dépendance               | 依存              |
@@ -188,6 +201,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 </details>
 
 ## Network, Server, database
+
 <details open>
 
 | English    | German          | French              | Japanese   |
@@ -207,6 +221,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 </details>
 
 ## Software
+
 <details open>
 
 | English           | German                      | French                       | Japanese       |
@@ -233,6 +248,7 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 </details>
 
 ## Hardware
+
 <details open>
 
 | English               | German                       | French                     | Japanese   |
@@ -249,45 +265,61 @@ Technical acronyms usually stay the same, e.g. HTTP, DNS, and are not listed.
 | short-circuit         | ein Kurzschluss              | un court-circuit           | 短絡       |
 | electromagnetic wave  | Electromagnetische Welle     | l'onde électromagnétique   | 電磁波     |
 | (computer) memory| der Speicher | la mémoire | メモリー |
-|stack|
-|heap|
 |random access memory (RAM)|
 |register|ein Register|
 |cache| ein Cache | 
-| buffer | ein Puffer | 
-| processer | ein Prozessor | 
+| buffer | ein Puffer |  un tampon | バッファ |
+| processer | ein Prozessor | un processeur | プロセッサ, 処理装置 |
+| machine code | die Maschinesprache | le langage machine | 機械語, マシン語 |
+| assembly | ein Assembler | un assembleur | アセンブリ言語 |
 |central processing unit (CPU)|
 | integrated circuit | ein integrierter Schaltkreis| un circuit intégré | 集積回路 |
-|computer architecture| die Rechnerarchitektur | 
+|computer architecture| die Rechnerarchitektur | l'architecture matérielle | コンピュータ・アーキテクチャ |
 |embedded system| ein eingebettetes System | un système embarqué | 組み込みシステム |
 |sensor| ein Sensor | un capteur | センサー |
 |actuator|der Aktor| un actionneur | アクチュエータ |
-| component | eine Komponente | un composant |
+| component | eine Komponente | un composant | コンポーネント |
 | controller |
+| button | eine Taste | 
+| switch | ein Schalter |
+| directional pad | ein Steuerkreuz | 
+| joystick | ein Joystick | 
 
 
 </details>
 
 ## Web development
+
 <details open>
 
+| English                 | German                      | French                      | Japanese               |
+|-------------------------|-----------------------------|-----------------------------|------------------------|
 |browser| ein Browser | un navigateur | 
 |frontend|das Frontend
 |backend|das Backend|
 |full stack|der Full-stack|
 |pagination|
+| color | die Farbe | la couleur | 色 |
+| hue | der Farbton | le ton, la teinte| 色相 |
+| contrast | 
+| visibility |
 |accessilibility|
 | specificity | die Spezifität |la spécificité |
 | domain | eine Domain |
+| (HTTP) request | 
+| (HTTP) response |
 
 </details>
 
 ## Title, Role
+
 <details open>
 
 I should note that some of these titles are legally protected in some countries and require some registration, 
 certification or recognition to be used.
 
+| English                 | German                      | French                      | Japanese               |
+|-------------------------|-----------------------------|-----------------------------|------------------------|
 |engineer | ein Ingenieur | un ingénieur | エンジニア |
 |developer | ein Entwickler | un développeur | 開発者 |
 |administrator (e.g. of database) | ein Administrator | un administrateur | 
@@ -321,8 +353,11 @@ certification or recognition to be used.
 </details>
 
 ## Multimedia, Graphics
+
 <details open>
 
+| English                 | German                      | French                      | Japanese               |
+|-------------------------|-----------------------------|-----------------------------|------------------------|
 | pixel |
 | photo |
 | image |
@@ -344,7 +379,13 @@ certification or recognition to be used.
 
 ## Protocol, Standard, License, Law
 
-|intellectual property|
+<details open>
+
+| English                 | German                      | French                      | Japanese               |
+|-------------------------|-----------------------------|-----------------------------|------------------------|
+|intellectual property| ein geistige Eigentum | une propriété intellectuelle | 知的財産 |
+| copyright | ein Urheberrecht | le copyright | 著作権 |
+| trademark | eine Marke | un droit des marques | 商標 |
 |protocol|
 |standard|
 |license|
@@ -352,36 +393,45 @@ certification or recognition to be used.
 |principle|
 |contract|
 |agreement|
-|
 
+</details>
 
 ## Selected Topics
 
-|artificial intelligence|die künstlische Intelligenz|l'intelligence artificielle|人工知能|
-|machine learning|das maschinelles Lernen|
-|neural network|
-|virtual reality|
-|augmented reality |
-|cloud computing|
-|concurrency|
-|synchronization|
-|authentication|die Authentifizierung|l'authentification|
-|quantum computing|
-|superposition|
-|cryptocurrency|
-|cybernetics|
-|bioinformatics|
-|mechatronics|
+<details open>
 
-## Chemistry Physics related to computer
+| English                 | German                      | French                      | Japanese               |
+|-------------------------|-----------------------------|-----------------------------|------------------------|
+| artificial intelligence | die künstlische Intelligenz | l'intelligence artificielle | 人工知能               |
+| machine learning        | das maschinelles Lernen     | l'apprentissage automatique | 機械学習               |
+| virtual reality         | die virtuelle Realität      | la réalité virtuelle        | バーチャル・リアリティ, 仮想現実  |
+| augmented reality       | die erweiterte Realität     | la réalité augmentée        | 拡張現実               |
+| hologram                | ein Hologramm               | un hologramme               | ホログラム                  |
+| cloud computing         | das Cloud-Computing         | le cloud computing          | クラウドコンピューティング          |
+| concurrency             | die Nebenläufigkeit         | la concurrence              | 並行性                 |
+| synchronization         | die Synchronisation         | la synchronisation          | 同期                   |
+| authentication          | die Authentifizierung       | l'authentification          | 認証                   |
+| quantum computer        | ein Quantencomputer         | un calculateur quantique    | 量子コンピュータ, 量子計算機 |
+| superposition           | die Superposition           | la superposition            | 重ね合わせ                |
+| cryptocurrency          | eine Kryptowährung          | une cryptomonnaie           | 暗号通貨               |
+| cybernetics             | die Kybernetik              | la cybernétique             | サイバネティックス              |
+| bioinformatics          | die Bioinformatik           | la bio-informatique         | バイオインフォマティクス           |
+| robotics                | die Robotik                 | la robotique                | ロボット工学               |
+| mechatronics            | die Mechatronik             | la mécatronique             | メカトロニクス                |
+
+</details>
+
+<!-- ## Chemistry Physics related to computer
 
 | electrolyte |
 | acid | 
 | alkali |
-| solvent | 
+| solvent |  -->
 
 
 ## Good to know
+
+<details open>
 
 | English          | German           | French                  | Japanese       |
 |------------------|------------------|-------------------------|----------------|
@@ -396,15 +446,14 @@ certification or recognition to be used.
 |translation| eine Übersetzung | 
 |dictionary|
 | glossary | 
-| color | die Farbe | la couleur | 色 |
-| hue | der Farbton | le ton, la teinte| 色相 |
-| contrast | 
-| visibility |
 | acceleration | die Beschleunigung | l'accélération | 加速度 |
 | knowledge | das Wissen | le savoir | 知識 |
-| job, occupation | ein Beruf | un boulot, un métier |
+| job, occupation | ein Beruf | un boulot, un métier | 職業, 仕事 |
 | employment | die Beschäfitigung | l'emploi | 雇用, 就業 |
 | past | die Vergangenheit | le passé | 過去 |
 | present | die Gegenwart | le présent | 現在, 今 |
 | future | die Zukunft | le avenir | 未来 |
-| solution (answer) | 
+| question | eine Frage | une question | 問題 |
+| solution (answer) | eine Lösung | une solution | 解, 答え |
+
+</details>
