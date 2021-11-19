@@ -200,23 +200,26 @@ have mid-low to high fluency in all four languages.
 
 </details>
 
-## Network, Server, database
+## Network, Server, Database
 
 <details open>
 
-| English    | German          | French              | Japanese   |
-|------------|-----------------|---------------------|------------|
-| network    | ein Netzwerk    | un réseau           | ネットワーク     |
-| internet   | das Internet    | l'internet          | インターネット    |
-| database   | eine Datenbank  | une Base de données | データベース     |
-| redundancy | die Redundanz   | la redondance       | 冗長化     |
-| server     | ein Server      | un serveur          | サーバ        |
-| host       | ein Hostrechner | un hôte             | ホスト        |
-| port       | ein Port        | un port             | ポート        |
-| hypervisor | ein Hypervisor  | un hyperviseur      | ハイパーバイザ    |
-| signal     | das Signal      | le signal           | 信号       |
-| connection | eine Verbindung | la connexion        | 接続, 繋がり |
-| broadcast  | eine Sendung    | la télédiffusion    | 放送, 配信 |
+| English                         | German                     | French                            | Japanese          |
+|---------------------------------|----------------------------|-----------------------------------|-------------------|
+| network                         | ein Netzwerk               | un réseau                         | ネットワーク            |
+| internet                        | das Internet               | l'internet                        | インターネット           |
+| database                        | eine Datenbank             | une Base de données               | データベース            |
+| redundancy                      | die Redundanz              | la redondance                     | 冗長化            |
+| server                          | ein Server                 | un serveur                        | サーバ               |
+| host                            | ein Hostrechner            | un hôte                           | ホスト               |
+| port                            | ein Port                   | un port                           | ポート               |
+| hypervisor                      | ein Hypervisor             | un hyperviseur                    | ハイパーバイザ           |
+| signal                          | das Signal                 | le signal                         | 信号              |
+| connection                      | eine Verbindung            | la connexion                      | 接続, 繋がり        |
+| broadcast                       | eine Sendung               | la télédiffusion                  | 放送, 配信        |
+| internet service provider (ISP) | ein Internetdienstanbieter | un fournisseur d'accès à internet | インターネットサービスプロバイダ  |
+| proxy (server)                  | ein Proxy                  | un proxy                          | プロキシ              |
+| load balancing                  | die Lastverteilung         | la répartition de charge          | 負荷分散, ロードバランス |
 
 </details>
 
@@ -279,10 +282,10 @@ have mid-low to high fluency in all four languages.
 |sensor| ein Sensor | un capteur | センサー |
 |actuator|der Aktor| un actionneur | アクチュエータ |
 | component | eine Komponente | un composant | コンポーネント |
-| controller |
-| button | eine Taste | 
-| switch | ein Schalter |
-| directional pad | ein Steuerkreuz | 
+| controller | ein Controller | contrôleur | コントローラ |
+| button | eine Taste | un bouton | ボタン |
+| switch | ein Schalter | un interrupteur | スイッチ |
+| directional pad | ein Steuerkreuz | la croix directionnelle | 十字キー, 方向キー |
 | joystick | ein Joystick | 
 
 
@@ -292,22 +295,23 @@ have mid-low to high fluency in all four languages.
 
 <details open>
 
-| English                 | German                      | French                      | Japanese               |
-|-------------------------|-----------------------------|-----------------------------|------------------------|
-|browser| ein Browser | un navigateur | 
-|frontend|das Frontend
-|backend|das Backend|
-|full stack|der Full-stack|
-|pagination|
-| color | die Farbe | la couleur | 色 |
-| hue | der Farbton | le ton, la teinte| 色相 |
-| contrast | 
-| visibility |
-|accessilibility|
-| specificity | die Spezifität |la spécificité |
-| domain | eine Domain |
-| (HTTP) request | 
-| (HTTP) response |
+| English               | German               | French            | Japanese  |
+|-----------------------|----------------------|-------------------|-----------|
+| browser               | ein Browser          | un navigateur     | ブラウザ      |
+| frontend              | das Front-End        | le front-end      | フロントエンド   |
+| backend               | das Back-End         | le backend-end    | バックエンド    |
+| full stack            | der Full-stack       | le full-stack     | フルスタック    |
+| color                 | die Farbe            | la couleur        | 色        |
+| hue                   | der Farbton          | le ton, la teinte | 色相      |
+| contrast              | der Kontrast         | le contraste      | コントラスト    |
+| visibility            | die Sichtbarkeit     | la visibilité     | 可視度    |
+| opacity               | die Opazität         | l'opacité         | 不透明性  |
+| (web) accessilibility | die Barrierefreiheit | l'accessiblité    | タアクセシビリティ |
+| (CSS) specificity     | die Spezifität       | la spécificité    | 詳細度    |
+| domain name           | ein Domain-Name      | un nom de domaine | ドメイン名    |
+| (HTTP) request        | eine Anfrage         | une requête       | リクエスト     |
+| (HTTP) response       | eine Antwort         | une réponse       | レスポンス     |
+| chart                 | ein Diagramm         | un diagramme      | 図表, グラフ |
 
 </details>
 
@@ -318,28 +322,30 @@ have mid-low to high fluency in all four languages.
 I should note that some of these titles are legally protected in some countries and require some registration, 
 certification or recognition to be used.
 
-| English                 | German                      | French                      | Japanese               |
-|-------------------------|-----------------------------|-----------------------------|------------------------|
-|engineer | ein Ingenieur | un ingénieur | エンジニア |
-|developer | ein Entwickler | un développeur | 開発者 |
-|administrator (e.g. of database) | ein Administrator | un administrateur | 
-|electician | ein Elektriker | un électricien | 電気工事士 (電工) |
-|technician | ein Techniker | un technicien | 技師 | 管理者 |
-| designer |
-| artist |
-| animator |
-| scientist |
-| intern |
-| part-timer |
-| employee |
-| employer |
-| colleague, coworker | 
+Also, for languages with gender (e.g. German & French), the noun needs to be declined to reflect the gender.
+
+| English                          | German               | French                        | Japanese                          |
+|----------------------------------|----------------------|-------------------------------|-----------------------------------|
+| engineer                         | ein Ingenieur        | un ingénieur                  | エンジニア                             |
+| developer                        | ein Entwickler       | un développeur                | 開発者                            |
+| administrator (e.g. of database) | ein Administrator    | un administrateur             | 管理者                            |
+| electician                       | ein Elektriker       | un électricien                | 電気工事士 (電工)                 |
+| technician                       | ein Techniker        | un technicien                 | 技師                              |
+| designer                         | ein Designer         | un designer                   | デザイナー, 設計者                     |
+| artist                           | ein Künstler         | un artiste                    | 芸術家                            |
+| animator                         | ein Animator         | un animateur                  | アニメーター                            |
+| scientist                        | ein Wissenschafer    | un scientifique               | 科学者                            |
+| intern                           | ein Praktikant       | un stagiaire                  | インターン                             |
+| part-timer                       | ein TeilzeitArbeiter |                               | パートタイム従業員, アルバイト<sub>[0]</sub> |
+| employee                         | ein Angestellter     | un salarié                    | 従業員, 社員                      |
+| employer                         | ein Arbeitgeber      | un employeur                  | 雇用者                            |
+| colleague, coworker              | ein Kollege          | un collaborateur, un collègue | 同僚                              |
 | manager |
 | director
 | investor |
 | sponsor |
 | applicant, candidate |
-| interviewer
+| interviewer |
 | volunteer |
 | creater |
 | visitor |
@@ -350,6 +356,9 @@ certification or recognition to be used.
 | sender |
 | recipient |
 
+<sub>[0]</sub>: アルバイト has the nuance that it is usually done by students.
+For workforce population doing part time work アルバイト is rarely used.
+
 </details>
 
 ## Multimedia, Graphics
@@ -358,7 +367,7 @@ certification or recognition to be used.
 
 | English                 | German                      | French                      | Japanese               |
 |-------------------------|-----------------------------|-----------------------------|------------------------|
-| pixel |
+| pixel |   | ピクセル
 | photo |
 | image |
 | video|
@@ -377,22 +386,23 @@ certification or recognition to be used.
 
 </details>
 
-## Protocol, Standard, License, Law
+## Protocol, Standard, License
 
 <details open>
 
-| English                 | German                      | French                      | Japanese               |
-|-------------------------|-----------------------------|-----------------------------|------------------------|
-|intellectual property| ein geistige Eigentum | une propriété intellectuelle | 知的財産 |
-| copyright | ein Urheberrecht | le copyright | 著作権 |
-| trademark | eine Marke | un droit des marques | 商標 |
-|protocol|
-|standard|
-|license|
-|law|
-|principle|
-|contract|
-|agreement|
+| English               | German                | French                       | Japanese  |
+|-----------------------|-----------------------|------------------------------|-----------|
+| intellectual property | ein geistige Eigentum | une propriété intellectuelle | 知的財産  |
+| copyright             | ein Urheberrecht      | le copyright                 | 著作権    |
+| trademark             | eine Marke            | un droit des marques         | 商標      |
+| protocol              | ein Protokoll         | un protocole                 | プロトコル     |
+| standard              | ein Standard          | un standard                  | 標準      |
+| license               | eine Lizenz           | une licence                  | ライセンス     |
+| law                   | ein Gesetz            | une loi                      | 法律      |
+| rule                  | eine Regal            | une règle                    | 規則, ルール |
+| principle             | ein Prinzip           | un principe                  | 原理      |
+| contract              | ein Vertrag           | un contrat                   | 契約      |
+| agreement             | ein Abkommen          | d'accord                     | 協定      |
 
 </details>
 
@@ -433,27 +443,30 @@ certification or recognition to be used.
 
 <details open>
 
-| English          | German           | French                  | Japanese       |
-|------------------|------------------|-------------------------|----------------|
-|upper case|die Großshreibung|
-|lower case|die Kleinschreibung|
-|radiation|die Strahlung|
-|satellite|ein Satellit|
-|ruler|ein Lineal|une règle|定規、物差し|
-|compass|ein Zirkel|un compas|コンパス、円規|
-|abacus|ein Abakus|un abaque|算盤、珠算、アバカス|
-|calendar|
-|translation| eine Übersetzung | 
-|dictionary|
-| glossary | 
-| acceleration | die Beschleunigung | l'accélération | 加速度 |
-| knowledge | das Wissen | le savoir | 知識 |
-| job, occupation | ein Beruf | un boulot, un métier | 職業, 仕事 |
-| employment | die Beschäfitigung | l'emploi | 雇用, 就業 |
-| past | die Vergangenheit | le passé | 過去 |
-| present | die Gegenwart | le présent | 現在, 今 |
-| future | die Zukunft | le avenir | 未来 |
-| question | eine Frage | une question | 問題 |
-| solution (answer) | eine Lösung | une solution | 解, 答え |
+| English                         | German              | French                  | Japanese                     |
+|---------------------------------|---------------------|-------------------------|------------------------------|
+| upper case                      | die Großshreibung   | les majuscules          | (inapplicable)<sup>[0]</sup> |
+| lower case                      | die Kleinschreibung | les minuscules          | (inapplicable)<sup>[0]</sup> |
+| radiation                       | die Strahlung       | le rayonnement          | 放射                         |
+| satellite                       | ein Satellit        | un satellite artificiel | 人工衛星                     |
+| ruler                           | ein Lineal          | une règle               | 定規、物差し                   |
+| compass                         | ein Zirkel          | un compas               | コンパス、円規                    |
+| abacus                          | ein Abakus          | un abaque               | 算盤、珠算、アバカス               |
+| calendar                        | ein Kalendar        | un calendrier           | 暦, カレンダー                    |
+| translation                     | eine Übersetzung    | une traduction          | 翻訳                         |
+| dictionary (book on vocabulary) | ein Wörterbuch      | un dictionnaire         | 辞書                         |
+| glossary                        | ein Glossar         | un glossaire            | 用語集                       |
+| acceleration                    | die Beschleunigung  | l'accélération          | 加速度                       |
+| knowledge                       | das Wissen          | le savoir               | 知識                         |
+| job, occupation                 | ein Beruf           | un boulot, un métier    | 職業, 仕事                   |
+| employment                      | die Beschäfitigung  | l'emploi                | 雇用, 就業                   |
+| past                            | die Vergangenheit   | le passé                | 過去                         |
+| present                         | die Gegenwart       | le présent              | 現在, 今                     |
+| future                          | die Zukunft         | le avenir               | 未来                         |
+| question                        | eine Frage          | une question            | 問題                         |
+| solution (answer)               | eine Lösung         | une solution            | 解, 答え                      |
+
+<sup>[0]</sup>: Japanese has no upper case and lower case, but, for modern Japanese, it has hiragana(平仮名)
+for native Japanese words and katakana(片仮名) for borrowed words.
 
 </details>
