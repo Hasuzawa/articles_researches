@@ -2,7 +2,7 @@
 
 A sample file structure for simple React project. File structure usually either groups by nature or group by usage. For most code this is just a personal preference, but for static assets, they need to be later served by server, so it would usually be better to be grouped together. Subgrouping code by usage within group by nature is advised if codebase becomes large.
 
-Last revised: 17 Nov 2021
+Last revised: 22 Nov 2021
 
 ## React project file structure
 
@@ -10,6 +10,7 @@ Last revised: 17 Nov 2021
   - pages
   - api
   - src
+    - pages
     - components
   - public      (images, pdf, static assets)
   - styles      (for global CSS properties)
@@ -22,8 +23,10 @@ Last revised: 17 Nov 2021
   - *graphql
   - *effects
   - *locales
+  - *client/orm
 
-*: If using [ Typescript | Redux, MobX etc. | testing libraries, e.g. Jest, cypress | GraphQL | animation, transition libraries, e.g. framer-motion | localization packages, e.g. react-i18next ]
+*: If using [ Typescript | Redux, MobX etc. | testing libraries, e.g. Jest, cypress | GraphQL | animation, transition libraries, e.g. framer-motion | localization packages, e.g. react-i18next | GraphQL client/Object-relational mapping, e.g.
+Apollo Client, Prisma ]
 
 If you use enum, class, interface extensively, you might want to have files dedicated to them too.
 

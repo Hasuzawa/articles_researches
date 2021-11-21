@@ -28,6 +28,9 @@ it boardens both your horizon and knowledge.
 This is heavily influenced by Wikipedia as I think the nouns listed there are what the commonly accepted
 definitions in each langauge. But I have also used various online dictionary to further pinpoint the meaning. I
 have mid-low to high fluency in all four languages.
+
+last updated on 21 Nov 2021.
+
 </details>
 
 ## Daily life
@@ -254,39 +257,39 @@ have mid-low to high fluency in all four languages.
 
 <details open>
 
-| English               | German                       | French                     | Japanese   |
-|-----------------------|------------------------------|----------------------------|------------|
-| hardware              | eine Hardware                | un matériel                | ハードウェア     |
-| circuit               | ein Stromkreis               | un circuit                 | 回路       |
-| capacitor             | ein Kondensator              | un condensateur            | コンデンサ      |
-| resistor              | ein Widerstand               | une résistance             | 抵抗器     |
-| transistor            | ein Transistor               | un transistor              | トランジスタ     |
-| semiconductor         | ein Halbleiter               | un semi-conducteur         | 半導体     |
-| voltage               | die (elektrische) Spannung   | la tension (électrique)    | 電圧       |
-| (electric) current    | die (elektrische) Strom      | le courant (électrique)    | 電流       |
-| (electric) resistance | der (elektrische) Widerstand | la résistance (électrique) | (電気)抵抗 |
-| short-circuit         | ein Kurzschluss              | un court-circuit           | 短絡       |
-| electromagnetic wave  | Electromagnetische Welle     | l'onde électromagnétique   | 電磁波     |
-| (computer) memory| der Speicher | la mémoire | メモリー |
-|random access memory (RAM)|
-|register|ein Register|
-|cache| ein Cache | 
-| buffer | ein Puffer |  un tampon | バッファ |
-| processer | ein Prozessor | un processeur | プロセッサ, 処理装置 |
-| machine code | die Maschinesprache | le langage machine | 機械語, マシン語 |
-| assembly | ein Assembler | un assembleur | アセンブリ言語 |
-|central processing unit (CPU)|
-| integrated circuit | ein integrierter Schaltkreis| un circuit intégré | 集積回路 |
-|computer architecture| die Rechnerarchitektur | l'architecture matérielle | コンピュータ・アーキテクチャ |
-|embedded system| ein eingebettetes System | un système embarqué | 組み込みシステム |
-|sensor| ein Sensor | un capteur | センサー |
-|actuator|der Aktor| un actionneur | アクチュエータ |
-| component | eine Komponente | un composant | コンポーネント |
-| controller | ein Controller | contrôleur | コントローラ |
-| button | eine Taste | un bouton | ボタン |
-| switch | ein Schalter | un interrupteur | スイッチ |
-| directional pad | ein Steuerkreuz | la croix directionnelle | 十字キー, 方向キー |
-| joystick | ein Joystick | 
+| English                       | German                            | French                          | Japanese        |
+|-------------------------------|-----------------------------------|---------------------------------|-----------------|
+| hardware                      | eine Hardware                     | un matériel                     | ハードウェア          |
+| circuit                       | ein Stromkreis                    | un circuit                      | 回路            |
+| capacitor                     | ein Kondensator                   | un condensateur                 | コンデンサ           |
+| resistor                      | ein Widerstand                    | une résistance                  | 抵抗器          |
+| transistor                    | ein Transistor                    | un transistor                   | トランジスタ          |
+| semiconductor                 | ein Halbleiter                    | un semi-conducteur              | 半導体          |
+| voltage                       | die (elektrische) Spannung        | la tension (électrique)         | 電圧            |
+| (electric) current            | die (elektrische) Strom           | le courant (électrique)         | 電流            |
+| (electric) resistance         | der (elektrische) Widerstand      | la résistance (électrique)      | (電気)抵抗      |
+| short-circuit                 | ein Kurzschluss                   | un court-circuit                | 短絡            |
+| electromagnetic wave          | Electromagnetische Welle          | l'onde électromagnétique        | 電磁波          |
+| (computer) memory             | der Speicher                      | la mémoire                      | メモリー            |
+| random access memory (RAM)    | der Direktzugriffsspeicher        | la mémoire vive                 | ランダムアクセスメモリ     |
+| register                      | ein Register                      | le registre                     | レジスタ            |
+| cache                         | ein Cache                         | une cache                       | キャッシュ           |
+| buffer                        | ein Puffer                        | un tampon                       | バッファ            |
+| processer                     | ein Prozessor                     | un processeur                   | プロセッサ, 処理装置 |
+| machine code                  | die Maschinesprache               | le langage machine              | 機械語, マシン語   |
+| assembly                      | ein Assembler                     | un assembleur                   | アセンブリ言語       |
+| central processing unit (CPU) | die Zentrale Verarbeitungseinheit | la unité centrale de traitement | 中央処理装置    |
+| integrated circuit            | ein integrierter Schaltkreis      | un circuit intégré              | 集積回路        |
+| computer architecture         | die Rechnerarchitektur            | l'architecture matérielle       | コンピュータ・アーキテクチャ  |
+| embedded system               | ein eingebettetes System          | un système embarqué             | 組み込みシステム      |
+| sensor                        | ein Sensor                        | un capteur                      | センサー            |
+| actuator                      | der Aktor                         | un actionneur                   | アクチュエータ         |
+| component                     | eine Komponente                   | un composant                    | コンポーネント         |
+| controller                    | ein Controller                    | contrôleur                      | コントローラ          |
+| button                        | eine Taste                        | un bouton                       | ボタン             |
+| switch                        | ein Schalter                      | un interrupteur                 | スイッチ            |
+| directional pad               | ein Steuerkreuz                   | la croix directionnelle         | 十字キー, 方向キー  |
+| joystick                      | ein Joystick                      | un joystick                     | ジョイスティック        |
 
 
 </details>
@@ -312,6 +315,10 @@ have mid-low to high fluency in all four languages.
 | (HTTP) request        | eine Anfrage         | une requête       | リクエスト     |
 | (HTTP) response       | eine Antwort         | une réponse       | レスポンス     |
 | chart                 | ein Diagramm         | un diagramme      | 図表, グラフ |
+| create                | anlegen              | créer             | 生成      |
+| read                  | lesen                | lire              | 読み取り    |
+| update                | aktualisieren        | actualiser        | 更新      |
+| delete                | löschen              | supprimer         | 削除      |
 
 </details>
 
@@ -336,23 +343,24 @@ Also, for languages with gender (e.g. German & French), the noun needs to be dec
 | animator                         | ein Animator         | un animateur                  | アニメーター                            |
 | scientist                        | ein Wissenschafer    | un scientifique               | 科学者                            |
 | intern                           | ein Praktikant       | un stagiaire                  | インターン                             |
-| part-timer                       | ein TeilzeitArbeiter |                               | パートタイム従業員, アルバイト<sub>[0]</sub> |
+| part-timer                       | ein TeilzeitArbeiter | ?                             | パートタイム従業員, アルバイト<sub>[0]</sub> |
 | employee                         | ein Angestellter     | un salarié                    | 従業員, 社員                      |
 | employer                         | ein Arbeitgeber      | un employeur                  | 雇用者                            |
 | colleague, coworker              | ein Kollege          | un collaborateur, un collègue | 同僚                              |
-| manager |
-| director
-| investor |
-| sponsor |
-| applicant, candidate |
-| interviewer |
-| volunteer |
-| creater |
-| visitor |
-| viewer |
-| customer |
-| buyer |
-| seller |
+| manager | ein Manager | un gérant | マネージャー |
+| director | ein Direktor | un directeur  |ディレクター | 
+| investor | ein Anleger | un investisseur | 投資家 |
+| sponsor | ein Sponsor | un sponsor | スポンサー |
+| applicant, | ein Bewerber | un demandeur | 応募者 |
+| candidate | ein Kandidat | un candidat | 候補者 |
+| interviewer | ein Befrager | un intervieweur | 面接者 |
+| volunteer | ein Freiwilliger | un bénévole | ボランティア |
+| creater | 
+| visitor | ein Besucher | un visiteur | 訪問者 |
+| viewer | ein Zuschauer | un spectateur | 視聴者, 閲覧者 |
+| client | ein Kunde | un client | クライアント |
+| buyer | ein Käufer |  un acheteur |  購入者 | 
+| seller, vendor | ein Verkäufer | un vendeur | 販売者 |
 | sender |
 | recipient |
 
@@ -367,7 +375,7 @@ For workforce population doing part time work アルバイト is rarely used.
 
 | English                 | German                      | French                      | Japanese               |
 |-------------------------|-----------------------------|-----------------------------|------------------------|
-| pixel |   | ピクセル
+| pixel | ein Pixel |   | ピクセル
 | photo |
 | image |
 | video|
