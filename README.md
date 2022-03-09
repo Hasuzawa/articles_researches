@@ -3,17 +3,16 @@ Sometimes I perform my own research, write a short article, or just brush up my 
 
 ## Content
 
-Useful references
+Useful References
 
 - [Typing Equations in Git markdown file](/references/Equations_in_markdown/)
 - [Brief introduction to some script programming languages](/references/script_languages/)
 - [Common computer terminology in English, German, French and Japanese](/references/terminology/)
 - [File structure for simple React project](/references/react_file_structure/)
+- [React & Vue](/references/react_and_vue)
+
+Algorithm
 
 
-Simple algorithms
+Article
 
-[Simple recursion in C++](/algorithm/recursion)
-
-
-Articles
